@@ -1,0 +1,10 @@
+{
+  "sourceSha": "7aa808f374c014cbe72874268dc06798b348000f",
+  "verifiedNativeRunId": "cmvpmt2j000004sqyl374xc9j",
+  "status": "SUCCEEDED",
+  "actualHardwareOverride": "standard",
+  "cpuMax": "150000 100000",
+  "memoryBytes": 2147483648,
+  "retainsAllOriginalQualityCommands": true,
+  "githubImageWorkflows": "retained pending native image/publication equivalent"
+}
